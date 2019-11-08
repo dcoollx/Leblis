@@ -1,0 +1,10 @@
+header{
+  width:100vw;
+  background-color: #056F86;
+  color:white;
+}
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+
+.cursive{
+  font-family: 'Great Vibes', cursive;
+}

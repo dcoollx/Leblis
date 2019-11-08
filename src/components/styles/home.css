@@ -1,0 +1,16 @@
+#home .jumbotron{
+  width:100%;
+  height:45vh;
+  position: relative;
+  background-image: url(https://static.wixstatic.com/media/f6bd60_abd9282eba80484da95455e5d3473b3d.jpg/v1/fill/w_548,h_446,al_c,lg_1,q_80/f6bd60_abd9282eba80484da95455e5d3473b3d.webp);
+  background-repeat: no-repeat;
+  background-size:cover;
+} 
+
+.overlay{
+ position: absolute;
+  background-color: rgba(255,255,255,0.5);
+  color:white;
+  bottom: 1px;
+  font-size: 5em;
+}
