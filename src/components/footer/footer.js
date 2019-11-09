@@ -2,7 +2,8 @@ import React from 'react';
 
 export default function (){
   return (
-    <div id="footer" className="container">
+    <footer id="footer" >
+      <div className="container">
       <div className="row">
         <div className="col">
         <h4>Contact Us</h4>
@@ -20,5 +21,6 @@ export default function (){
       </div>
       &copy; 2019
     </div>
+    </footer>
   );
 }

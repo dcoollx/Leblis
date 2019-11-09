@@ -1,5 +1,5 @@
 header{
-  width:100vw;
+  width:100%;
   background-color: #056F86;
   color:white;
   position: sticky;
@@ -10,4 +10,14 @@ header{
 
 .cursive{
   font-family: 'Great Vibes', cursive;
+}
+header a{
+  text-decoration: none;
+  color:white;
+  padding-top: 12px;
+}
+header a:hover{
+  text-decoration: none;
+  color:cyan;
+  padding-top: 12px;
 }
