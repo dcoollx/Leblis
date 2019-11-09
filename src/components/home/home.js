@@ -4,7 +4,7 @@ import YourType from './yourType';
 import Philosophy from './Philosophy';
 
 import {Jumbotron} from 'react-bootstrap';
-import billboard from '../../img/smiling-african-american-young-woman-600w-1498300058.webp';
+import billboard from '../../img/hair-2537564_1920_cropped.jpg';
 
 export default function (){
   return (

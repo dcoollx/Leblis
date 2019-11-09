@@ -2,6 +2,9 @@ header{
   width:100vw;
   background-color: #056F86;
   color:white;
+  position: sticky;
+  top:0px;
+  z-index: 100;
 }
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
 
