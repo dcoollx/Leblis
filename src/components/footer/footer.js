@@ -19,6 +19,8 @@ export default function (){
         </div>
         <h4>More About Us</h4>
       </div>
+      <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
       &copy; 2019
     </div>
     </footer>

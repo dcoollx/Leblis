@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function(){
   return (
-    <section className="container">
+    <section className="container" id="about">
       
       <h2 className="cursive">Meet the owners</h2>
       <div className="row">

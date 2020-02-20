@@ -1,1 +1,5 @@
 @import './map.css';
+@import './form.css';
+#contact{
+  padding:3%;
+}

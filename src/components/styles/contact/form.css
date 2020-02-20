@@ -1,0 +1,20 @@
+#contact form{
+  padding:50px;
+  background-color:rgba(5,111,134,0.3);
+  margin-top: 50px;
+}
+#contact form input, textarea{
+  background-color: rgba(255,255,255,0.3);
+  border:none;
+  width:100%;
+}
+#contact form textarea{
+  height:150px;
+}
+#contact form button{
+  background-color:rgb(5,111,134);
+  padding: 15px;
+  margin-top:15px;
+  border: none;
+  color:white;
+}

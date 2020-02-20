@@ -21,3 +21,13 @@ header a:hover{
   color:cyan;
   padding-top: 12px;
 }
+#drop-down{
+  position: relative;
+  display:inline-block;
+}
+#miniMenu{
+  background-color: blue;
+  height:100px;
+  width:100px;
+
+}

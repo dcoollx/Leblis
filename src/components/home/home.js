@@ -22,7 +22,7 @@ export default class Home extends React.Component{
   return (
     <main>
   <Jumbotron fluid onMouseOver={(e)=>this.animation.play()}>
-        <p ref={this.subtitle} className="overlay cursive" style={{opacity:0.1,position:'relative',left:'0px',bottom:'0px'}}>Looking your Best makes you feel Best!</p>
+        <p ref={this.subtitle} className="overlay cursive" style={{opacity:0.1,position:'absolute',left:'0px',bottom:'0px'}}>Looking your Best makes you feel Best!</p>
     </Jumbotron>
   <div id="home" className="container">
     

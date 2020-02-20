@@ -1,4 +1,7 @@
 import React from 'react';
+import fbIcon from '../../img/facebook.svg';
+import twIcon from '../../img/twitter-logo-on-black-background.svg';
+import pIcon from '../../img/pinterest.svg';
 
 export default function(){
   return (
@@ -23,6 +26,14 @@ We stand behind our products 100% because we believe in satisfaction!</p>
     <p>Men love LeBlis too!</p>
     <img src="https://static.wixstatic.com/media/214ec6_9623b3ae658e97dc8c6dff5d77faa5fe.jpg/v1/fill/w_239,h_302,al_c,q_80,usm_0.66_1.00_0.01/214ec6_9623b3ae658e97dc8c6dff5d77faa5fe.webp" alt="leblis is for men too"/>
   </div>
+  </div>
+</div>
+<div id="social_media" className="row container rounded">
+  <div  className="row">
+    <object className="col" type="image/svg+xml" data={fbIcon} width="50" height="50">facebook</object>
+    <object className="col" type="image/svg+xml" data={twIcon} width="50" height="50">facebook</object>
+    <object className="col" type="image/svg+xml" data={pIcon} width="50" height="50">facebook</object>
+    <object className="col" type="image/svg+xml" data={pIcon} width="50" height="50">facebook</object>
   </div>
 </div>
 

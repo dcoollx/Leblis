@@ -1,4 +1,7 @@
 #map{
-  height:400px;
-  width:400px;
+  min-width:100px;
+  min-height:300px;
+  position: relative;
+  left:-15px;
+  box-sizing: border-box;
 }
